@@ -11,5 +11,6 @@ echo '2018 hello world<br/>';
 
 echo phpinfo();
 echo 'aaa';
-echo 'bii';
+exit;
+echo 'biidsdssdds';
 die;
