@@ -9,8 +9,3 @@ function acrypt($string, $key, $operation = 'encode')
 }
 echo '2018 hello world<br/>';
 
-echo phpinfo();
-echo 'aaasfdsf';
-echo 'fdddd';
-echo 'a111aaaabiibbbds';
-die;

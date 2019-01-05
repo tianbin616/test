@@ -2,6 +2,6 @@
 
 function test()
 {
-	echo '111111';
+	echo 'sdfsdf111111';
 }
 ?>
