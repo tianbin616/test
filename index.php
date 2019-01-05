@@ -7,5 +7,5 @@ function acrypt($string, $key, $operation = 'encode')
 {
     echo $string;
 }
-echo '2018 hello world<br/>';
+echo 'dsd 2018 hello world<br/>';
 
